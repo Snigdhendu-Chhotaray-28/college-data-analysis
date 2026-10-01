@@ -1,0 +1,3 @@
+-- Eco Pillars Hub - Supabase PostgreSQL Schema Migrations
+-- PHASE 0: Migration placeholder
+-- Schemas, Tables, Row-Level Security policies, and Triggers will be defined in Phase 1
